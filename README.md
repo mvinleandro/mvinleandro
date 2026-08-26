@@ -7,7 +7,7 @@
 ---
 
 ### 📖 About Me
-I'm an Electronic and Computer Engineering student at UFRJ, deeply passionate about mathematical solutions, logical thinking, and leveraging creativity to build impactful systems. My journey spans across **Low-Level Hardware** (Embedded Systems, C/C++) and **High-Level Software** (Fullstack Web Development). I strongly believe in teamwork, patience, and uniting ideas to solve complex issues. 
+I'm an Information and Computer Engineering student at UFRJ, deeply passionate about mathematical solutions, logical thinking, and leveraging creativity to build impactful systems. My journey spans across **Low-Level Hardware** (Embedded Systems, C/C++) and **High-Level Software** (Fullstack Web Development). I strongly believe in teamwork, patience, and uniting ideas to solve complex issues. 
 
 🌍 **Fun Fact:** I'm a polyglot! I speak **Portuguese** (Native), **English** (Bilingual), **Spanish** (Professional), **French** (Professional), and even some **Latin**.
 
