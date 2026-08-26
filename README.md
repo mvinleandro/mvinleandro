@@ -1,3 +1,11 @@
+<div align="center">
+
+# Hi there, I'm Marcus! 👋
+
+### 🚀 Aspiring Developer | Embedded Systems & Competitive Programming Enthusiast
+
+---
+
 ### 💻 Languages
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a> <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a> <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a> <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a> <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a> <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 
@@ -20,10 +28,12 @@
 <a href="https://www.linkedin.com/in/marcus-leandro-537878340" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ### ⚡ GitHub Stats
-<div align="left">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=mvinleandro&theme=dark&show_icons=true&v=1" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvinleandro&theme=dark&layout=compact&v=1" height="150" alt="Top Languages" />
 </div>
 
 ### 🐟 My Contributions (Deep Abyss)
 <img src="https://raw.githubusercontent.com/mvinleandro/mvinleandro/main/dist/ocean-fish.svg" alt="Abyssal Fish Animation" />
+
+</div>
