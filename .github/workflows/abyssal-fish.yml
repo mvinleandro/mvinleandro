@@ -1,0 +1,33 @@
+name: Abyssal Fish Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Fish image
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/ocean-fish.svg?color_snake=#1a365d&color_dots=#0d1117,#09101a,#0a192f,#112240,#233554
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dist/ocean-fish.svg -f
+          git commit -m "Update abyssal fish animation" || exit 0
+          git push origin main
