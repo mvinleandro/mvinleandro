@@ -66,6 +66,7 @@ I'm an Information and Computer Engineering student at UFRJ, deeply passionate a
 ### 📫 Contact & Connections
 <a href="https://www.linkedin.com/in/marcus-leandro-537878340" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mvinleandro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.fiverr.com/mvinleandro" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 
 ### ⚡ GitHub Stats
 <div>
