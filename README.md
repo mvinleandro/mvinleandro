@@ -59,8 +59,8 @@ Need custom ML models deployed to hardware or an IoT dashboard built? **[Let's w
 <a href="https://www.fiverr.com/mvinleandro" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 
 ### ⚡ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mvinleandro&theme=dark&show_icons=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvinleandro&theme=dark&layout=compact" height="150" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=mvinleandro&theme=dark&show_icons=true" height="150" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mvinleandro&theme=dark&layout=compact" height="150" alt="Top Languages" />
 
 ### 🐟 My Contributions (Deep Abyss)
 <img src="https://raw.githubusercontent.com/mvinleandro/mvinleandro/main/dist/ocean-fish.svg" alt="Abyssal Fish Animation" />
